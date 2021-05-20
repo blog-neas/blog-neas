@@ -1,0 +1,38 @@
+# 
+# CODICE PER LAVORARE SU GITHUB
+# 
+#
+# salva username locale (serve per chi legge le modifiche)
+git config --global user.name "luciopalazzo"
+# entra nella cartella desiderata
+# inizializza il git
+git init
+# aggiungi il file prova.txt
+git add prova.txt
+# aggiungi tutti i file presenti in cartella
+git add . 
+# crea la prima commit, cioè salva i progressi
+git commit
+# stati attuale del git locale
+git status
+# aggiungi breve commento alla commit
+git commit -m "prova1"
+# aggiungi link a repository remoto (github)
+git remote add origin https://github.com/blog-neas/blog-neas.github.io.git
+# push il codice su GitHub 
+git push -u origin master
+# adesso sono richiesti user e pass
+
+
+# altre operazioni
+# crea nuovo branch
+git checkout -b <<nome nuova branch>>
+# porta online il branch
+git push -u origin gh-pages
+# unisci branch con master
+git merge master
+# se vuoi tornare al master 
+git checkout master
+# porta online tutto (master)
+git push -u origin master
+
