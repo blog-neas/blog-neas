@@ -25,6 +25,13 @@ pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/andrewbanchich
 
+# sass directory
+sass:
+    sass_dir: _sass
+
+plugins:
+  - jekyll-coffeescript
+
 # Build settings
 markdown: kramdown
 

@@ -23,7 +23,6 @@ git remote add origin https://github.com/blog-neas/blog-neas.github.io.git
 git push -u origin master
 # adesso sono richiesti user e pass
 
-
 # altre operazioni
 # crea nuovo branch
 git checkout -b <<nome nuova branch>>
@@ -35,4 +34,13 @@ git merge master
 git checkout master
 # porta online tutto (master)
 git push -u origin master
+
+
+
+# operazioni veloci
+git status
+git checkout gh-pages
+git add .
+git commit
+git push -u origin gh-pages
 
