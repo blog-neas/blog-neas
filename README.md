@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <!--
+- :rocket: [Support me](https://www.paypal.com/donate/?hosted_button_id=SDLM3DCKPWCRL
+-->
+
+<!--
 **blog-neas/blog-neas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
