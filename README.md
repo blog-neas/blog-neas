@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+[asd](lol)
+
 <!--
-- :rocket: [Support me](https://www.paypal.com/donate/?hosted_button_id=SDLM3DCKPWCRL
+- 🚀 [Support me](https://www.paypal.com/donate/?hosted_button_id=SDLM3DCKPWCRL)
 -->
 
 <!--
