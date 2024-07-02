@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 - 🚀 [Support me](https://www.paypal.com/donate/?hosted_button_id=SDLM3DCKPWCRL)
